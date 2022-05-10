@@ -1,2 +1,2 @@
-# ROT13
-Project for implemention of ROT13 decode
+# Caesars Cipher
+FreeCodeCamp project of the JavaScript Algorithms and Data Structures course.
